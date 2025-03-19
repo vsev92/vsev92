@@ -1,11 +1,17 @@
 Hi 👋 My name is Vsevolod Petrov
 ================================
 
-Web Developer
--------------
+Web Developer, Industrial Automation Engineer
+---------------------------------------------
+
+## Education
+1. Kemerovo State University, Faculty of Information Technology, Engineer of automated information processing and control systems, 2014.
+2. Online programming school Hexlet, PHP web developer, 2025
 
 * 🌍  I'm based in Novokuznetsk, Russian Federation
 * ✉️  You can contact me at [vsev92@gmail.com](mailto:vsev92@gmail.com)
+* 🧠  I'm learning Laravel
+* 🤝  I'm open to collaborating on Web development, application programming, Industrial Automation
 
 ### Skills
 
