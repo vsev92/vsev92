@@ -6,7 +6,7 @@ Web Developer, Industrial Automation Engineer
 
 ## Education
 1. Kemerovo State University, Faculty of Information Technology, Engineer of automated information processing and control systems, 2014.
-2. Online programming school Hexlet, PHP web developer, 2025
+2. Online programming school Hexlet, PHP web developer, 2024
 
 * 🌍  I'm based in Novokuznetsk, Russian Federation
 * ✉️  You can contact me at [vsev92@gmail.com](mailto:vsev92@gmail.com)
